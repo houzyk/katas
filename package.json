@@ -1,0 +1,14 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:houzyk/katas.git",
+  "author": "houzairkoussa <houzairmk@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
